@@ -42,3 +42,9 @@ Feito em **React Native com Expo**, com persistência local via **AsyncStorage**
   ![screenshot abrir](https://i.imgur.com/sbAvNMK.png)
 
 ---
+
+## 🌍 Deploy Web
+👉 [Testar no navegador](https://react-native-character-sheet-e8hyifymd-mateuspizinis-projects.vercel.app)
+
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://react-native-character-sheet-e8hyifymd-mateuspizinis-projects.vercel.app)
+
